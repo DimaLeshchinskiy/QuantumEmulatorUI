@@ -1,2 +1,2 @@
 # QuantumEmulatorUI
-UI for my quatum simulator
+UI for my quatum simulator https://github.com/DimaLeshchinskiy/QuantumEmulator
